@@ -1,0 +1,11 @@
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\bin\Debug\FigurasApp.exe.config
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\bin\Debug\FigurasApp.exe
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\bin\Debug\FigurasApp.pdb
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\obj\Debug\FigurasApp.csproj.AssemblyReference.cache
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\obj\Debug\FigurasApp.Form1.resources
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\obj\Debug\FigurasApp.Properties.Resources.resources
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\obj\Debug\FigurasApp.csproj.GenerateResource.cache
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\obj\Debug\FigurasApp.csproj.CoreCompileInputs.cache
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\obj\Debug\FigurasApp.exe
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\obj\Debug\FigurasApp.pdb
+C:\Users\MARIANA\source\repos\FigurasApp\FigurasApp\obj\Debug\FigurasApp.Form2.resources
